@@ -64,7 +64,7 @@ p {
 }
 
 /* ------ Main ------ */
-.main {
+main {
     display: grid;
     grid-gap: 30px;
     grid-template-columns: repeat(3, 1fr);
@@ -128,7 +128,7 @@ p {
         font-size: 24px;
     }
     
-    .main {
+    main {
         grid-template-columns: 1fr;
     }
 
@@ -155,7 +155,7 @@ p {
         font-size: 28px;
     }
     
-    .main {
+    main {
         grid-template-columns: repeat(2, 1fr);
     }
      
