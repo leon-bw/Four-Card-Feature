@@ -42,9 +42,9 @@ p {
 }
 
 .container {
-    max-width: 1440px;
-    padding: 0 50px;
-    margin: 50px auto;
+    max-width: 1250px;
+    padding: 0 40px;
+    margin: 0 auto;
 }
 
 /* ------ Header ------ */
@@ -58,6 +58,7 @@ p {
 }
 
 .main-title {
+    margin-top: 80px;
     font-weight: 200;
 }
 
